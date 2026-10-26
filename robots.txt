@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Tambahkan URL sitemap penuh setelah domain produksi dikonfigurasi.
